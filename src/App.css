@@ -12,7 +12,18 @@ body {
     #ece9e6
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
-
+h3 {
+  text-align: center;
+  font-size: 2.2rem;
+}
+.score {
+  margin-right: 50px;
+  color: #368936;
+}
+.highscore {
+  margin-left: 50px;
+  color: #ca3f3f;
+}
 h1 {
   text-align: center;
   font-size: 78px;
